@@ -67,6 +67,7 @@ Day 7: (Thur)
 - began the last day emailing Chris for some help with the upload process, since the only files I have uploaded before are Python (.ipynb) and csv files.
 - by searching an error code, I manage to find the problem before I got a reply from Chris
 
-
-
-"# Tech-Task-Submission-Final" 
+Post Interview Additions:
+- started working on the links straight after the interview
+- did a lot of research into it and found some videos that resembled my task
+- completed it to the best of my ability!
